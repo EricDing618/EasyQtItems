@@ -58,7 +58,7 @@
 </string>
    </property>
    <property name="text">
-    <string>进入Erichat</string>
+    <string>进入程序主界面</string>
    </property>
   </widget>
   <widget class="QLabel" name="label">
